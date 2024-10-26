@@ -1,0 +1,3 @@
+[submodule "danswer"]
+	path = danswer
+	url = git@github.com:danswer-ai/danswer.git

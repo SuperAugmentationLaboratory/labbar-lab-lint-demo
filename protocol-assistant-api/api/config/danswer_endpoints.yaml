@@ -1,0 +1,4 @@
+send_message: /chat/send-message
+create_chat_session: /chat/create-chat-session
+upload_file: /chat/file
+input_prompt: /admin/input_prompt

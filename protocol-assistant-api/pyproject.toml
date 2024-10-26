@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "protocol-assistant-api"
+version = "0.1.0"
+description = ""
+authors = ["labar"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.115.3"
+uvicorn = "^0.32.0"
+python-dotenv = "^1.0.1"
+firebase-admin = "^6.5.0"
+requests = "^2.32.3"
+python-multipart = "^0.0.12"
+requests-toolbelt = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
